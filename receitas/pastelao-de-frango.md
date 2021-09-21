@@ -57,7 +57,3 @@
 3. Montagem:
 
     i. *Untar um prato refratário com manteiga. Colocar a metade da massa e depois o recheio. Colocar 100g de mussarela por cima do recheio e depois cobrir com o restaurante da massa. Ao seu gosto, regue com queijo ralado e leve ao forno por cerca de 30 minutos.*
-
-## Referências
-
-[Pastelão de Frango | Receitas](https://receitas.globo.com/pastelao-de-frango-4d50c36052e0b252bc00667b.ghtml)
