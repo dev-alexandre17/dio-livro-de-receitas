@@ -1,6 +1,6 @@
 # Livro de receita
 
-Seja bem vindo (a) ao meu livro de receita, aqui você vai encontrar instruções para preparar o prato do pastelão de frango. Confira abaixo alguns tópicos que foram definidos:
+Seja bem vindo (a) ao meu livro de receita, aqui você vai encontrar instruções para preparar o pastelão de frango. Confira abaixo alguns tópicos que foram definidos:
 
 - **Massa** 
   
